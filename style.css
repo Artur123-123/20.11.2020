@@ -67,3 +67,15 @@
 .center {
     text-align: center;
 }
+
+.main-container {
+    background-color: blanchedalmond;
+}
+
+.palceholgerimg {
+    background-color: wheat;
+    border: 1px solid rgb(0, 0, 0);
+    width: 70%;
+    height: auto;
+    margin: 20px auto;
+}
